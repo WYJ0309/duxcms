@@ -1,0 +1,8 @@
+composer.lock
+install.lock
+/vendor
+/data/cache/*
+/data/storage/*
+/data/log/*
+/upload/*
+/phpMyAdmin
